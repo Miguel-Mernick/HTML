@@ -2,6 +2,6 @@
 
 projetos:
 
-1. meu primeiro site
+1. estrutura de título e parágrafo
 2. arquivo base para uma estrutura de site
-3. estrutura de título e parágrafo
+3. meu primeiro site

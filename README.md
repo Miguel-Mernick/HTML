@@ -6,4 +6,5 @@ projetos:
 2. estrutura de título e parágrafo
 3. links
 4. imagens
-5. meu primeiro site
+5. descrição do filme em HTML
+6. meu primeiro site

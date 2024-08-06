@@ -2,7 +2,7 @@
 
 projetos:
 
-1. estrutura de título e parágrafo
-2. arquivo base para uma estrutura de site
+1. arquivo base para uma estrutura de site
+2. estrutura de título e parágrafo
 3. links
 4. meu primeiro site

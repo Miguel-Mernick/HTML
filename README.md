@@ -7,4 +7,5 @@ projetos:
 3. links
 4. imagens
 5. descrição do filme em HTML
-6. meu primeiro site
+6. exemplo de semântica 
+7. meu primeiro site

@@ -2,10 +2,11 @@
 
 projetos:
 
-1. arquivo base para uma estrutura de site
-2. estrutura de título e parágrafo
-3. links
-4. imagens
-5. descrição do filme em HTML
-6. exemplo de semântica 
-7. meu primeiro site
+1. clone letras.com
+2. arquivo base para uma estrutura de site
+3. estrutura de título e parágrafo
+4. links
+5. imagens
+6. descrição do filme em HTML
+7. exemplo de semântica 
+8. meu primeiro site

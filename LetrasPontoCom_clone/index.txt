@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang= "pt-br">
+<head>
+	<!-- renderiza caracteres especiais corretamente -->
+	<meta charset="UTF-8">
+	<!-- permite reconhecer quando aberto em tela menor -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Naquela Mesa - Nelson Gonçalves - LETRAS.COM</title>
+</head>
+<body>
+	<img src="img/topo.png" alt="topo da página" width="1258">
+	<p style="color:gray; front-seze:12px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; página inicial > hip hop/rap > anirap > fantasmático (ben10) - medo (part. ishida)</p>
+	<center>
+	<img src="img/anuncio.png" alt="anuncio" width="1272">
+	</center>
+	<p style="color:red; front-size 25px; line-height:-10px;"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="img/avatar.png" alt="foto do artista" width="65"><b> Fantasmático (Ben 10) - Medo (part. Ishida) <p style="color:yellow; front-seze:12px; line-height:-10px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Anirap</b></p></p>
+	<p style="font-size:20px; margin-left:250px;">Naquela mesa, ele sentava sempre<br>
+E me dizia sempre o que é viver melhor<br>
+ Naquela mesa, ele contava histórias<br>
+ Que hoje na memória eu guardo e sei de cor<br></p>
+	<img src="img/video.png" alt="ilustação do vídeoclipe" align="right"; width="500">
+	<p style="font-size:20px; margin-left:250px;">Naquela mesa, ele juntava a gente<br>
+E contava contente o que fez de manhã<br>
+E nos seus olhos era tanto brilho<br>
+Que mais que seu filho, eu fiquei seu fã<br></p>
+	<p style="font-size:20px; margin-left:250px;">Eu não sabia que doía tanto<br>
+Uma mesa num canto, uma casa e um jardim<br>
+Se eu soubesse quanto dói a vida<br>
+Essa dor tão doída não doía assim<br></p>
+	<p style="font-size:20px; margin-left:250px;">Agora resta uma mesa na sala<br>
+E hoje ninguém mais fala no seu bandolim<br>
+Naquela mesa, tá faltando ele<br>
+E a saudade dele tá doendo em mim<br>
+Naquela mesa, tá faltando ele<br>
+E a saudade dele tá doendo em mim<br></p>
+	<p style="font-size:20px; margin-left:250px;">Agora resta uma mesa na sala<br>
+E hoje ninguém mais fala no seu bandolim<br>
+Naquela mesa, tá faltando ele<br>
+E a saudade dele tá doendo em mim<br>
+Naquela mesa, tá faltando ele<br>
+E a saudade dele tá doendo em mim<br></p>
+	<p style="font-size:20px; margin-left:250px;">Eu não sabia que doía tanto<br>
+Uma mesa num canto, uma casa e um jardim<br>
+Se eu soubesse quanto dói a vida<br>
+Essa dor tão doída não doía assim<br></p>
+	<p style="font-size:20px; margin-left:250px;">Agora resta uma mesa na sala<br>
+E hoje ninguém mais fala no seu bandolim<br>
+Naquela mesa, tá faltando ele<br>
+E a saudade dele tá doendo em mim<br>
+Naquela mesa, tá faltando ele<br>
+E a saudade dele tá doendo em mim<br></p>
+</body>
+</html>

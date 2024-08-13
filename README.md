@@ -8,5 +8,6 @@ projetos:
 4. links
 5. imagens
 6. descrição do filme em HTML
-7. exemplo de semântica 
-8. meu primeiro site
+7. exemplo de semântica
+8. exemplo de tabela
+9. meu primeiro site

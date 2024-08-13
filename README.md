@@ -10,4 +10,5 @@ projetos:
 6. descrição do filme em HTML
 7. exemplo de semântica
 8. exemplo de tabela
-9. meu primeiro site
+9. exemplo de lista ordenada
+10. meu primeiro site

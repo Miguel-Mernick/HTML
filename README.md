@@ -11,4 +11,6 @@ projetos:
 7. exemplo de semântica
 8. exemplo de tabela
 9. exemplo de lista ordenada
-10. meu primeiro site
+10. atividade inserindo imagens
+11. atividade lista
+12. meu primeiro site

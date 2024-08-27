@@ -2,19 +2,13 @@
 
 projetos:
 
-1. clone letras.com
-2. arquivo base para uma estrutura de site
-3. estrutura de título e parágrafo
-4. links
-5. imagens
-6. descrição do filme em HTML
-7. exemplo de semântica
-8. exemplo de tabela
-9. exemplo de lista ordenada
-10. atividade inserindo imagens
-11. atividade lista
-12. clone google.com
-13. atividade de formulário com seletores
-14. exemplo de videos, audios e imagens
-15. exemplo de Tags
-16. meu primeiro site
+1. Minha primeira página web
+2. Estrutura básica HTML/TXT
+3. Parágrafo e títulos usando HTML
+4. Links integrados
+5. Imagens (remotas e por link)
+6. Semântica
+7. Página de filme
+8. Site clone "Letras.com"
+9. Formulários (com ou sem seletores)
+10. Inserção de imagens e vídeos
